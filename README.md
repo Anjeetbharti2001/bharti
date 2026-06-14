@@ -5,10 +5,10 @@ this is my
 <p>something facing the error in code</p>
 
 
-class Node {
-    int data;
-    Node left;
-    Node right;
+class Node {<br>
+    int data;<br>
+    Node left;<br>
+    Node right;<br>
 
     Node(int data) {
         this.data = data;
